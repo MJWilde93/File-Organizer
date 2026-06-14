@@ -1,0 +1,15 @@
+# Organizer runtime files
+organizer.log
+.organizer_undo.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
